@@ -1,4 +1,4 @@
-#ElkiaUHC
+# ElkiaUHC
 The  [@elkiaclub](https://github.com/elkiaclub) datapack for spinning up an [UHC](https://minecraft.gamepedia.com/Ultra_Hardcore).
 This is just a barebones setup.
 
